@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+## Welcome to my Git Pages with some my codes.
 
-You can use the [editor on GitHub](https://github.com/VexelB/web2year/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://vexelb.github.io/ProgPort/">Портфолио по Программированию</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://github.com/VexelB/main/blob/master/index.js">ссылка на первое задание</a>
 
-```markdown
-Syntax highlighted code block
+<a href="https://github.com/VexelB/web_lr1/tree/master/lr1">Установка node</a>
 
-# Header 1
-## Header 2
-### Header 3
+<a href="https://github.com/VexelB/web_lr1/tree/master/lr2">Лабораторная работа по DTD и XML</a>
 
-- Bulleted
-- List
+<a href="https://github.com/VexelB/web_lr1/tree/master/lr3-60918">Создание DTD и XML</a>
 
-1. Numbered
-2. List
+<a href="https://kodaktor.ru/task_ef9b4">Введение в JS</a>
 
-**Bold** and _Italic_ and `Code` text
+<a href="https://vexelb.github.io/web27918/">зависимости</a>
 
-[Link](url) and ![Image](src)
-```
+<a href="https://vexelb.github.io/270918/">Модульность</a>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<a href="https://vexelb.github.io/web410/">Babel и Flow</a>
 
-### Jekyll Themes
+<a href="https://vexelb.github.io/web111018/">JSdoc</a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VexelB/web2year/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<a href="https://kodaktor.ru/?!=mda_7e900">IIFE</a>
 
-### Support or Contact
+<a href="https://kodaktor.ru/?!=mda2510_74e62">25.10</a>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="https://kodaktor.ru/?!=mdaush_73e91">30.10</a>
+
+<a href="https://kodaktor.ru/?!=mda2911_5d478">29.11</a>
+
+<a href="https://myvery1app.herokuapp.com/">13.12</a><a href="https://github.com/VexelB/web1312">Гит</a>
+
+<a href="https://morning-tundra-96606.herokuapp.com/static.pdf">20.12</a>
+
+<a href="https://kodaktor.ru/?!=click_7889c">02.02</a>
+
+<a href="https://kodaktor.ru/?!=nodelist_e5a5e">14.02(1)</a><a href="https://kodaktor.ru/?!=5_d8692">14.02(2)</a>
+
+<a href="https://kodaktor.ru/custom_e7b05">21.02</a>
+
+<a href="https://kodaktor.ru/mda_040e8">28.02</a>
+
+<a href="https://kodaktor.ru/?!=jeka_d94e7">21.03(1)</a><a href="https://kodaktor.ru/?!=jeka_78dea">21.03(2)</a>
+
+<a href="https://kodaktor.ru/?!=react_simple_39f9f">04.04(1)</a><a href="https://kodaktor.ru/?!=28032019_48c28">04.04(2)</a>
+
+<a href="https://php-study1-gossoudarev.c9users.io/students/Jekich/1804.php">11.04</a>
+
+<a href="https://php-study1-gossoudarev.c9users.io/students/Jekich/1804.php">11.04</a>
+
+<a href="https://vexelb.github.io/you/">YOU</a>
+
+<a href="https://vexelb.github.io/starsanddays/">MaterialUI</a>
+
+<a href="https://vexelb.github.io/moment_bundle/">19.02</a>
+
+<a href="https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=9054">19.03</a>
+
+<a href="https://kodaktor.ru/?!=02042019_e77b2">02.04(1)</a><a href="https://php-study1-gossoudarev.c9users.io/students/Jekich/jeka.php?age=12">02.04(2)</a>
+
+<a href="https://php-study1-gossoudarev.c9users.io/students/Jekich/index.php">09.04</a>
+
+<a href="https://php-study1-gossoudarev.c9users.io/students/Jekich/reviews/read.php">28.05</a>
